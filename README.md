@@ -1,4 +1,4 @@
 # Ipl-win-predictor
-Author- Krishna Tapas
+Author- Krishna Thomson
 <br>
 Date-03/12/2024
